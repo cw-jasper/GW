@@ -1,1 +1,1 @@
-CW App packages for Mosyle deployment
+GW App packages for Mosyle deployment
